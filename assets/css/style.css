@@ -1,0 +1,19 @@
+nav{
+    background-color: transparent;
+}
+h2 { color: white;
+    text-align:center;
+}
+
+#avion, #montaña, #ruta {
+    text-align:center;
+}
+#tarjetas{
+    display: flex;
+}
+#mensaje{
+    height: 200px;
+}
+#iconos{
+    float: right;
+}
